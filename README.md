@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**jackgit106/jackgit106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Turning Data into Actionable Insights
 
-Here are some ideas to get you started:
+I'm a data analyst passionate about transforming raw data into **clear insights, meaningful visualisations, and data-driven decisions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exploring datasets, identifying trends, solving business problems, and communicating findings in a way that makes complex information easy to understand.
+
+---
+
+## 🛠️ Data Analytics Toolkit
+
+### 🐍 Programming & Data Analysis
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### 🗄️ Databases & SQL
+
+- SQL
+- Data querying
+- Joins
+- CTEs
+- Subqueries
+- Window Functions
+- Aggregations
+
+### 📊 Business Intelligence & Visualisation
+
+- Power BI
+- DAX
+- Data Modelling
+- Tableau
+- Interactive Dashboards
+- Data Storytelling
+
+### 📈 Excel
+
+- PivotTables
+- XLOOKUP
+- Power Query
+- Data Cleaning
+- Dashboard Development
+
+---
+
+## 💡 Data Analysis Skills
+
+- 🔍 Exploratory Data Analysis (EDA)
+- 🧹 Data Cleaning & Transformation
+- 📊 Statistical Analysis
+- 📈 Trend & Pattern Analysis
+- 🎯 KPI & Performance Analysis
+- 🔗 Data Modelling
+- 💼 Business Intelligence
+- 📋 Reporting & Dashboard Development
+- 💬 Data Storytelling
+- 💡 Data-Driven Decision Making
+
+---
+
+## 🚀 What I Do
+
+- Clean, transform, and validate raw datasets
+- Use SQL to extract meaningful business insights
+- Perform exploratory data analysis to identify trends and patterns
+- Build interactive Power BI dashboards
+- Analyse KPIs and business performance
+- Automate repetitive data analysis tasks using Python
+- Translate complex data into clear, actionable insights
+- Present findings to technical and non-technical audiences
+
