@@ -44,7 +44,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 - Aggregations
 
 ### 📊 Business Intelligence & Visualisation
-
+<img width="378" height="303" alt="image" src="https://github.com/user-attachments/assets/307171ca-4441-4464-a9f3-f7506b6af77a" />
 - Power BI
 - DAX
 - Data Modelling
