@@ -1,9 +1,6 @@
 # Hi, I'm Jack 👋
 <p align="center">
-  <img src="purplebanner.png" alt="Purple Banner">
-</p>
-<p align="center">
-  <img src="./purple-banner.png" alt="Purple Banner" width="100%">
+  <img src="./purplebanner.png" alt="Purple Banner" width="100%">
 </p>
 
 
