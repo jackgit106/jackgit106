@@ -1,4 +1,20 @@
+![Purple Banner](./banner.svg)
+
 # Hi, I'm Jack 👋
+
+<svg width="1200" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#D8B4E2"/>
+      <stop offset="50%" stop-color="#B57EDC"/>
+      <stop offset="100%" stop-color="#8E5BB7"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="180" fill="url(#purple)"/>
+</svg>
+
+
 
 ### 📊 Data Analyst | Turning Data into Actionable Insights
 
