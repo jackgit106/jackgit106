@@ -1,6 +1,6 @@
 ![Purple Banner](./purplebanner.svg)
 <p align="center">
-  <img src="./purplebanner.svg" width="100%" />
+  <img src="./purplebanner.svg" alt="Purple Banner" width="100%">
 </p>
 
 
