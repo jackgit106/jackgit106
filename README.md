@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why do data analysts love coffee? Because they need to keep their queries running. ☕
+> Why did the analyst stare at the spreadsheet for hours? They were trying to find the missing cell-f-esteem. 😂
 <!-- DAILY_JOKE_END -->
 
 
