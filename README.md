@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> SQL and I have a great relationship... It's based on strong joins. ❤️
+> What does a data analyst eat for breakfast? Cereal correlations. 🥣
 <!-- DAILY_JOKE_END -->
 
 
