@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why did the data analyst break up with Excel? Because it wasn't giving them enough space. 📊
+> Why did the data scientist bring a ladder? To reach a higher dimension. 📈
 <!-- DAILY_JOKE_END -->
 
 
