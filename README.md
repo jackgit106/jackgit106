@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why did the data scientist bring a ladder? To reach a higher dimension. 📈
+> My Power BI dashboard walked into a bar... It had too many visualisations. 🍻
 <!-- DAILY_JOKE_END -->
 
 
