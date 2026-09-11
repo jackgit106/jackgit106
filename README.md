@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> My Power BI dashboard walked into a bar... It had too many visualisations. 🍻
+> I told my SQL query a joke... It didn't return any results. 😂
 <!-- DAILY_JOKE_END -->
 
 
