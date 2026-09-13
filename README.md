@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why did the analyst go broke? They kept spending all their time on the data. 💸
+> I told my SQL query a joke... It didn't return any results. 😂
 <!-- DAILY_JOKE_END -->
 
 
