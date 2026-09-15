@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> SQL and I have a great relationship... It's based on strong joins. ❤️
+> Why did the data scientist bring a ladder? To reach a higher dimension. 📈
 <!-- DAILY_JOKE_END -->
 
 
