@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> My dataset and I have a lot in common... We're both full of issues. 😅
+> I asked Python to analyse my dataset. It said, 'Pandas can do that.' 🐼
 <!-- DAILY_JOKE_END -->
 
 
