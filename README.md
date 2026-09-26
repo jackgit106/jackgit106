@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> I told my SQL query a joke... It didn't return any results. 😂
+> My dataset and I have a lot in common... We're both full of issues. 😅
 <!-- DAILY_JOKE_END -->
 
 
