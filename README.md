@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why did the analyst stare at the spreadsheet for hours? They were trying to find the missing cell-f-esteem. 😂
+> Why did the analyst go broke? They kept spending all their time on the data. 💸
 <!-- DAILY_JOKE_END -->
 
 
