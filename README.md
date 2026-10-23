@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> I asked Python to analyse my dataset. It said, 'Pandas can do that.' 🐼
+> Why do data analysts love coffee? Because they need to keep their queries running. ☕
 <!-- DAILY_JOKE_END -->
 
 
