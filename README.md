@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why did the data analyst break up with Excel? Because it wasn't giving them enough space. 📊
+> Why do data analysts love coffee? Because they need to keep their queries running. ☕
 <!-- DAILY_JOKE_END -->
 
 
