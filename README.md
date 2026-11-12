@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> I asked Python to analyse my dataset. It said, 'Pandas can do that.' 🐼
+> What does a data analyst eat for breakfast? Cereal correlations. 🥣
 <!-- DAILY_JOKE_END -->
 
 
