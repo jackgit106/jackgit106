@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> What does a data analyst eat for breakfast? Cereal correlations. 🥣
+> My Power BI dashboard walked into a bar... It had too many visualisations. 🍻
 <!-- DAILY_JOKE_END -->
 
 
