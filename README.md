@@ -27,7 +27,7 @@ I enjoy exploring datasets, identifying trends, solving business problems, and c
 ## 😂 Daily Data Joke
 
 <!-- DAILY_JOKE_START -->
-> Why was the database administrator so calm? They knew how to handle the transactions. 😎
+> SQL and I have a great relationship... It's based on strong joins. ❤️
 <!-- DAILY_JOKE_END -->
 
 
